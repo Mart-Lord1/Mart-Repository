@@ -40,7 +40,7 @@ public class PiedraPapelTijera {
                   computadora = "tijera";
             }
 
-            //Lógica del juego con operadores lógicos
+            //Lógica del juego
             String resultado = "";
 
             if (jugadorValor == computadoraValor) {
